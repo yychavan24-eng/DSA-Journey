@@ -1,0 +1,13 @@
+# Ignore C++ compiled executables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# Ignore VS Code local settings
+.vscode/
+
+# Ignore debug files
+*.dSYM/
+*.pdb
